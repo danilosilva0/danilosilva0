@@ -4,6 +4,14 @@
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosilva0&show_icons=true&theme=radical)
 
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0&theme=radical&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilosilva0&show_icons=true&theme=radical&line_height=27" alt="**Danilo Silva** github stats"/>
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0)](https://github.com/danilosilva0/github-readme-stats)
 
 ## Most Used Tech Tools
