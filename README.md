@@ -25,7 +25,7 @@ Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilosilva0&show_icons=true&theme=radical&line_height=27" alt="**Danilo Silva** github stats"/>
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilosilva0&theme=radical&" alt="danilosilva0's streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilosilva0&" alt="danilosilva0's streak" /></p>
 
 <!--     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
