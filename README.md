@@ -1,5 +1,6 @@
 ### Hello there! Eu sou o Danilo! 😎🤙💻
-<img align="right" width="300" src="https://tenor.com/view/moving-file-windows-xp-file-gif-10397972773140214917" />
+<img align="right" width="300" src="[https://tenor.com/view/moving-file-windows-xp-file-gif-10397972773140214917](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Ftheepicbcompanypoeda%2Fart%2FW11-Modernized-And-Classic-File-Transfer-Animation-897909643&psig=AOvVaw0SMp4PgEErKUlEEVROrGBG&ust=1734791689933000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCWoOTItooDFQAAAAAdAAAAABAK)" />
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
 
