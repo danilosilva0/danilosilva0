@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosilva0&show_icons=true&theme=radical)
+
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0&theme=radical&hide_langs_below=1" />
