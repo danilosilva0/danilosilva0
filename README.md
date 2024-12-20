@@ -2,17 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
 
+<!-- Adicione alguma frase e false sobre você aqui em baixo -->
 
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0&theme=radical&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilosilva0&show_icons=true&theme=radical&line_height=27" alt="**Danilo Silva** github stats"/>
-</a>
-
-
+Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2 anos de experiência na área, atuando em projetos com tecnologias como JSF Primefaces, Java, Angular, VueJS, SpringBoot, entre outras. Atualmente, curso o 8º período de Ciência da Computação no IFMG e já tive a oportunidade de trabalhar em soluções completas, unindo criatividade, adaptabilidade e trabalho em equipe. Fluente em inglês e com conhecimento básico-intermediário em francês, busco consolidar minha carreira no desenvolvimento de software e expandir para áreas como Segurança da Informação.
 
 ## Most Used Tech Tools
 
@@ -23,6 +15,15 @@
  </div><br>
 
 <div style="display: inline_block"><br>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0&theme=radical&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilosilva0&show_icons=true&theme=radical&line_height=27" alt="**Danilo Silva** github stats"/>
+</a>
+
 <!--     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
@@ -53,7 +54,3 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code> -->
 </div>
-
-<!-- Adicione alguma frase e false sobre você aqui em baixo -->
-
-Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2 anos de experiência na área, atuando em projetos com tecnologias como JSF Primefaces, Java, Angular, VueJS, SpringBoot, entre outras. Atualmente, curso o 8º período de Ciência da Computação no IFMG e já tive a oportunidade de trabalhar em soluções completas, unindo criatividade, adaptabilidade e trabalho em equipe. Fluente em inglês e com conhecimento básico-intermediário em francês, busco consolidar minha carreira no desenvolvimento de software e expandir para áreas como Segurança da Informação.
