@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0)](https://github.com/danilosilva0/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=java,c,vue,angular,js,html,css,spring,dotnet,maven,)](https://skillicons.dev)
+
 ## Most Used Tech Tools
 
 <div style="display: inline_block"><br>
@@ -27,8 +29,6 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <br/><br/>
-    [![My Skills](https://skillicons.dev/icons?i=java,c,vue,angular,js,html,css,spring,dotnet,maven,)](https://skillicons.dev)
 </div><br>
 
 <!-- Adicione alguma frase e false sobre você aqui em baixo -->
