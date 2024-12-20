@@ -23,6 +23,7 @@
     <img align="center" alt="JSF Primefaces" src="">
     <img align="center" alt="Payara" src="">
     <img align="center" alt="XHTML" src="">
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </div><br>
 
 <!-- Adicione alguma frase e false sobre você aqui em baixo -->
