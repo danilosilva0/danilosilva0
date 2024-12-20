@@ -19,6 +19,8 @@ Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2
 
 ## **GitHub Statistics**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilosilva0&theme=radical&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosilva0&theme=radical&hide_langs_below=1" />
 </a>
