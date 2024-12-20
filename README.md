@@ -1,4 +1,5 @@
 ### Hello there! Eu sou o Danilo! 😎🤙💻
+<div class="tenor-gif-embed" data-postid="10397972773140214917" data-share-method="host" data-aspect-ratio="5.53333" data-width="100%"><a href="https://tenor.com/view/moving-file-windows-xp-file-gif-10397972773140214917">Moving File Windows Xp Sticker</a>from <a href="https://tenor.com/search/moving+file-stickers">Moving File Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
 
