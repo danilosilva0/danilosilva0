@@ -1,8 +1,5 @@
 ### Hello there! Eu sou o Danilo! 😎🤙💻
 
-
-![Windows Transfer File GIF](https://tenor.com/pt-BR/view/hacking-data-files-loading-gif-11205356)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
 
 <!-- Adicione alguma frase e false sobre você aqui em baixo -->
