@@ -8,7 +8,7 @@ Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2
 
 ## Most Used Tech Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,vue,angular,js,html,css,dotnet,maven,flutter,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,vue,angular,js,html,css,dotnet,maven,flutter,gradle,android)](https://skillicons.dev)
 <div style="display: inline_block"><br>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
