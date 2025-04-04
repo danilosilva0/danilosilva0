@@ -8,11 +8,12 @@
 	I'm Danilo Silva, a Dev Web Full Stack & Mobile, who, obviously, loves technology! 😎🤙💻
 </div> -->
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; max-width: 600px;">
   <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNvNnh6NTkxMGQ3ajdtZmJ3dWVzczJ1bHNhcjJhNGczMmZ4MDAwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UBNDVAOJxiyJ88tWT/giphy.gif" />
-  <p style="margin-left: 15px; font-size: 20px;">
-    I'm <strong>Danilo Silva</strong>, a Dev Web Full Stack & Mobile, who, obviously, loves technology! 😎🤙💻
-  </p>
+  <div style="margin-left: 15px; font-size: 18px; line-height: 1.5;">
+    <p>I'm <strong>Danilo Silva</strong>, a Dev Web Full Stack & Mobile, who, obviously, loves technology! 😎🤙💻</p>
+    <p>Passionate about coding, learning new things, and building awesome stuff. Always looking for challenges and opportunities to grow! 🚀</p>
+  </div>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
@@ -36,6 +37,12 @@
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilosilva0&theme=radical" alt="danilosilva0's streak" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilosilva0/danilosilva0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilosilva0/danilosilva0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/danilosilva0/danilosilva0/output/github-snake.svg" />
+</picture>
+
 
 <!--     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
