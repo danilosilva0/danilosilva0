@@ -2,20 +2,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Danilo+Silva;" />
 </h1>
+<!-- Adicione alguma frase e false sobre você aqui em baixo -->
+<!-- <div align="left">
+  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNvNnh6NTkxMGQ3ajdtZmJ3dWVzczJ1bHNhcjJhNGczMmZ4MDAwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UBNDVAOJxiyJ88tWT/giphy.gif"  />
+	I'm Danilo Silva, a Dev Web Full Stack & Mobile, who, obviously, loves technology! 😎🤙💻
+</div> -->
+
+<div style="display: flex; align-items: center;">
+  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNvNnh6NTkxMGQ3ajdtZmJ3dWVzczJ1bHNhcjJhNGczMmZ4MDAwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UBNDVAOJxiyJ88tWT/giphy.gif" />
+  <p style="margin-left: 15px; font-size: 20px;">
+    I'm <strong>Danilo Silva</strong>, a Dev Web Full Stack & Mobile, who, obviously, loves technology! 😎🤙💻
+  </p>
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilosilva0/)
-
-<!-- Adicione alguma frase e false sobre você aqui em baixo -->
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNvNnh6NTkxMGQ3ajdtZmJ3dWVzczJ1bHNhcjJhNGczMmZ4MDAwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UBNDVAOJxiyJ88tWT/giphy.gif"  />
-</div>
-
-Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2 anos de experiência na área, atuando em projetos com tecnologias como JSF Primefaces, Java, Angular, VueJS, SpringBoot, entre outras. Atualmente, curso o 8º período de Ciência da Computação no IFMG e já tive a oportunidade de trabalhar em soluções completas, unindo criatividade, adaptabilidade e trabalho em equipe. Fluente em inglês e com conhecimento básico-intermediário em francês, busco consolidar minha carreira no desenvolvimento de software e expandir para áreas como Segurança da Informação.
 
 ## Tech Stack
 
