@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNvNnh6NTkxMGQ3ajdtZmJ3dWVzczJ1bHNhcjJhNGczMmZ4MDAwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UBNDVAOJxiyJ88tWT/giphy.gif"  />
 </div>
 
 Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2 anos de experiência na área, atuando em projetos com tecnologias como JSF Primefaces, Java, Angular, VueJS, SpringBoot, entre outras. Atualmente, curso o 8º período de Ciência da Computação no IFMG e já tive a oportunidade de trabalhar em soluções completas, unindo criatividade, adaptabilidade e trabalho em equipe. Fluente em inglês e com conhecimento básico-intermediário em francês, busco consolidar minha carreira no desenvolvimento de software e expandir para áreas como Segurança da Informação.
