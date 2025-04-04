@@ -30,7 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danilosilva0&theme=radical" alt="danilosilva0's streak" /></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilosilva0/danilosilva0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilosilva0/danilosilva0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/danilosilva0/danilosilva0/output/github-snake.svg" />
 </picture>
+
