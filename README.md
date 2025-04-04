@@ -6,7 +6,7 @@
 
 Sou Danilo Araújo Domingues Silva, Desenvolvedor Júnior Full Stack com quase 2 anos de experiência na área, atuando em projetos com tecnologias como JSF Primefaces, Java, Angular, VueJS, SpringBoot, entre outras. Atualmente, curso o 8º período de Ciência da Computação no IFMG e já tive a oportunidade de trabalhar em soluções completas, unindo criatividade, adaptabilidade e trabalho em equipe. Fluente em inglês e com conhecimento básico-intermediário em francês, busco consolidar minha carreira no desenvolvimento de software e expandir para áreas como Segurança da Informação.
 
-## Most Used Tech Tools
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,vue,angular,js,html,css,dotnet,maven,flutter,gradle,androidstudio)](https://skillicons.dev)
 <div style="display: inline_block"><br>
