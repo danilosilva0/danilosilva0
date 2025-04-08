@@ -2,14 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  # Every day at midnight UTC
+  workflow_dispatch:  # Manual run support
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate GitHub Snake
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: danilosilva0
@@ -17,15 +21,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Upload GitHub Snake
-        uses: actions/upload-artifact@v3
+      - name: Push to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          name: snake-artifact
-          path: dist
-
-      - name: Push Snake to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+          branch: output  # The branch the action should deploy to
+          folder: dist    # The folder the action should deploy
+          clean: true
+          token: ${{ secrets.GITHUB_TOKEN }}
